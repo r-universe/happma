@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "HRM"]
+	path = HRM
+	url = https://github.com/happma/hrm
+	shallow = true
+	registered = true
+[submodule "pseudorank"]
+	path = pseudorank
+	url = https://github.com/happma/pseudorank
+	shallow = true
+	registered = true
+[submodule "WMWssp"]
+	path = WMWssp
+	url = https://github.com/happma/wmwssp
+	shallow = true
+	registered = true

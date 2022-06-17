@@ -1,0 +1,14 @@
+[
+  {
+    "package": "HRM",
+    "oncran": true
+  },
+  {
+    "package": "pseudorank",
+    "oncran": true
+  },
+  {
+    "package": "WMWssp",
+    "oncran": true
+  }
+]
