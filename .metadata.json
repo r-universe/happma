@@ -1,10 +1,10 @@
 [
   {
-    "package": "HRM",
+    "package": "pseudorank",
     "oncran": true
   },
   {
-    "package": "pseudorank",
+    "package": "HRM",
     "oncran": true
   },
   {
