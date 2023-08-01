@@ -5,9 +5,9 @@
 [submodule "HRM"]
 	path = HRM
 	url = https://github.com/happma/hrm
-[submodule "pseudorank"]
-	path = pseudorank
-	url = https://github.com/happma/pseudorank
 [submodule "WMWssp"]
 	path = WMWssp
 	url = https://github.com/happma/wmwssp
+[submodule "pseudorank"]
+	path = pseudorank
+	url = https://github.com/happma/pseudorank
